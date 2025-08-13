@@ -1,2 +1,5 @@
-# finance-tracker
-A progressive web app for low-income Indians to track expenses, visualize debt, and work offline with multilingual support.
+# PFM Tools for Low-Income Households
+A user-friendly personal finance management PWA for low-income Indians.
+- **Features:** Expense tracking, debt visualization, offline mode, multilingual UI, voice input.
+- **Tech Stack:** React, Tailwind, PouchDB, CouchDB, i18next, Service Workers.
+- **Goal:** Financial clarity and literacy for underserved communities.
