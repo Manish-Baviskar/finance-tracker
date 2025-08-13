@@ -18,12 +18,12 @@ Initial project structure setup – Backend & Frontend connected.
 - Database: (to be finalised – SQLite / JSON / PouchDB)
 
 ## Hackathon Info
-This is our official GitHub repository for the TechBots 2025 project.
+This is our official GitHub repository.
 
 ---
 
 ### Setup Instructions
 ```bash
-git clone 
+git clone https://github.com/Manish-Baviskar/finance-tracker
 npm install all
 npm run dev
